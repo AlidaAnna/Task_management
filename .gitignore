@@ -1,0 +1,25 @@
+# Virtual environment
+myenv/
+venv/
+.env
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Database files
+*.sqlite3
+*.db
+
+# Django secret key & settings
+.env
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Logs & cache
+*.log
+*.cache
